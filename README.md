@@ -1,4 +1,4 @@
-#[FastestOPA] NodeJS ExpressJS MongoDB Toastr AngularJS Bootstrap Seed
+#[FastestSPA] NodeJS ExpressJS MongoDB Toastr AngularJS Bootstrap Seed
 
 Forked from [mancioshell/NEMTAB](https://github.com/mancioshell/NEMTAB) 
 
